@@ -1,0 +1,20 @@
+{
+  "site_favicon": "/assets/xyrjico.webp",
+  "mobile_sidebar_logo": "https://fengzi.eu.org/image/f25afb43-bd0e-45fa-9492-ddce1fda2169.webp",
+  "mobile_sidebar_logo_link": "",
+  "site_name": "Gmail账号 | Google Voice(GV)靓号 | 苹果Apple ID、AppStore账号 |  | Telegram账号 | 发卡网搭建 | 图床搭建服务",
+  "site_logo": "https://fengzi.eu.org/image/6f85fbbb-c6dd-47ed-9894-faf8ee723867.webp",
+  "show_site_name": "0",
+  "show_site_logo": "1",
+  "theme": "TBshop",
+  "announce": "<strong><span style=\"font-size:13px;\">请记住新平台网址：</span></strong><a href=\"https://hltx.eu.cc\" target=\"_blank\"><span style=\"color:#E53333;font-size:14px; font-weight: bolder;\">https://hltx.eu.cc</span></a><strong><span style=\"font-size:13px;\"> 或 </span></strong><a href=\"https://hltx.cc.cd\" target=\"_blank\"><span style=\"color:#E53333;font-size:14px; font-weight: bolder;\">https://hltx.cc.cd</span></a><strong><br/><span style=\"font-size:12px;\">1、网站已运营多年，诚信为经商之本，感谢相互信任。</span><br/><span style=\"font-size:12px;\">2、商品不会重复出售，下单前请看清楚商品描述哦！</span><br/><span style=\"font-size:12px;\">3、付款后回到网站，稍后会自动发货，或网站上查询订单。</span>",
+  "contact_info": "<span style=\"font-size:13px;\"><i class=\"fab fa-telegram\" style=\"color: #787878;font-size: 18px; vertical-align: middle; margin-right: 5px;\"></i><span style=\"line-height:2;\">Telegram：</span><a href=\"https://t.me/gv1688\" target=\"_blank\"><span style=\"line-height:2;\">@gv1688</span></a></span><br />\n<span style=\"font-size:13px;\"><i class=\"fab fa-qq\" style=\"color: #787878;font-size: 18px; vertical-align: middle; margin-right: 5px;\"></i><span style=\"line-height:2;\">QQ：137222445</span></span><br />\n<span style=\"font-size:13px;\"><i class=\"fab fa-weixin\" style=\"color: #787878;font-size: 18px; vertical-align: middle; margin-right: 5px;\"></i><span style=\"line-height:2;\">WeChat：gv666aaa</span></span><br />\n<hr style=\"margin: 3px 0px;text-wrap-mode: wrap;color: rgb(110 110 115 / 85%);font-size: 14px;\">\n<span style=\"font-size:13px;\"><span style=\"line-height:2;\">telegram电报群：</span><a href=\"https://t.me/gv6688\" target=\"_blank\"><span style=\"line-height:2;\">https://t.me/gv6688</span></a></span><br />",
+  "site_description": "提供优质Google谷歌账号、Gmail邮箱账号、Google Voice谷歌语音电话号(GV)靓号、苹果Apple ID、AppStore账号及Telegram账号出售，同时提供发卡网搭建、图床搭建、域名邮箱部署等服务，一站式解决账号与网站需求，稳定可靠，自动发货，支持长期使用。",
+  "footer_html": "<div class=\"footer-links\">\n                <a href=\"/custom?alias=terms\" target=\"_blank\">服务条款</a> <a href=\"/custom?alias=disclaimer\" target=\"_blank\">免责声明</a> <a href=\"/custom?alias=about-us\" target=\"_blank\">关于我们</a>\n                <p>Copyright @ 2026<a href=\"/\" target=\"_blank\">号令天下账号专卖店</a>欢迎选购！</p>\n            </div>",
+  "tg_active": "1",
+  "outlook_active": "1",
+  "custom_js": "",
+  "admin_turnstile_active": "0",
+  "turnstile_site_key": "0x4AAAAAADRFmG65m6TYCNU9",
+  "admin_captcha_active": "1"
+}

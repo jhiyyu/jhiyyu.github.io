@@ -426,7 +426,7 @@ function main() {
 <header class="header">
     <div class="header-inner">
         <div class="logo-area">
-            <div class="logo-icon">🏪</div>
+            <img src="${esc(fixImg(meta.siteLogo || '', siteUrl))}" alt="${esc(siteName)}" style="width:42px;height:42px;border-radius:12px;object-fit:cover;">
             <div class="logo-text">${esc(siteName)}</div>
         </div>
         <div class="header-badge">🔒 自动发货 · 安全可靠</div>
